@@ -1,0 +1,41 @@
+,id,name,age,email,join_date,salary,phone
+0,1,John  Doe,29,JOHN.DOE@gmail.com ,2021-01-05,55000,555-123-4567
+1,2,  mary jane,,maryjane(at)mail.com,05/12/2020,62000,(555) 222 3333
+2,3,Mike,thirty,mike@gmail,2020.11.30,,5553332222
+3,4,ANNA smith,42,anna.smith@gmail.com,,72000.00,555 444 1212
+4,5,Bob,  35,bob@domain. com,2021-13-01,61000,
+5,6,John Doe,29,john.doe@gmail.com,2021-01-05,55000,5551234567
+6,7,Sara   k,27,sara.k@mail.com,2021/04/02,58000,555-555-5555
+7,8,liam O'Neil,,liam@oneil.com,,67000,555 888 1111
+8,9,Emily,twenty five,"emily@gmail.,com",12-03-2022,59000$,5557774444
+9,10,Chris,30,chris@@mail.com,2022/02/10,65000,555.222.1111
+10,11,   jason,,  jason@mail.com,2020-07-20,70000,555 111 0000
+11,12,Nina,31 years,nina(at)gmail.com,2023-01-15,,
+12,13,Kim, 28,kim@mail..com,2023/01/15,63000,555 100 200
+13,14,Olivia,36,olivia@ mail.com,2021-05-05,68000,(555)-900-3000
+14,15,john doe,29, john.doe@gmail.com,01-05-2021,55000.00,5551234567
+15,16,Peter ,40,peter@mail.com,2020-05-25,69000,
+16,17,lara  CROFT,33,lara.croft@mail,2022/07/10,72000,555-000-9999
+17,18,steve,38,steve @mail.com,2021-11-11,71000$,555-333-000
+18,19,MARTIN,,martin@mail,11/11/2021,69000,5550003333
+19,20,Alice,45,alice@@mail.com,2020-03-03,87000,555-555-1212
+20,21,Sophia  ,  31,sophia@mail. com,,69000,555 888 444
+21,22,daniel,29,daniel@mail..com,2021/8/20,61000$,555777888
+22,23,Tom,,"tom@yahoo,com",2021-13-10,72000,555--444--3333
+23,24,Eva,twenty,eva@mailcom,15-07-2022,59000.00,555.111.222
+24,25,SAM,40,sam@@mail.com,2020-10-10,81000,5550000000
+25,26,kevin,,kevin@mail,,67000,
+26,27,Linda,27,linda @gmail.com,2021.02.02,58000,555 300 500
+27,28,Paula,34,paula@mail.com ,2022/03/03,69000,(555) 777-8888
+28,29,Rick,39,"rick@@mail,com",03/15/2021,72000$,555-600-400
+29,30, George, 41,george@mail. com,2023-02-30,,555 222 333
+30,31,    mia,22,mia@mailcom,,50000,555111222
+31,32,alex,29 years,"alex@mail,com",2022-07-12,62000,555----777
+32,33,ROBERT,35,robert @mail.com,2021/04/04,,555 000 111
+33,34,Grace,30,grace@mail. com ,2021-09-09,64000,555-123-9999
+34,35,helen,thirty-two,"helen@mail,com",2020/05/06,72000,555.444.333
+35,36,Victor,46,victor@mailcom,2023-01-21,82000$,555 888 222
+36,37,Ross, 33,ross@ mail.com,2021-02-02,71000,555000111
+37,38,Monica,29,monica@gmail..com,2021-04-04,69000,555-121-777
+38,39,Rachel,,rachel @gmail.com,,70000,555 444 888
+39,40,Joey,31,joey@mail..com,2020-06-10,65000$,555--121--000
